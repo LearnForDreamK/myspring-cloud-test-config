@@ -1,2 +1,2 @@
 spring:
-  info: this is dev and runtime property
+  info: this is dev and runtime property version=1.0
