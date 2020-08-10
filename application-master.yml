@@ -1,0 +1,2 @@
+spring:
+  info: this is master and runtime property

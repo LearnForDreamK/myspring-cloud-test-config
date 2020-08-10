@@ -1,0 +1,2 @@
+spring:
+  info: this is dev and runtime property
